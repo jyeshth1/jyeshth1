@@ -64,9 +64,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jyeshth-joshi-aa0914290/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="jyeshthjoshi018@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+  <a href="mailto:jyeshthjoshi018@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-jyeshthjoshi018@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email">
   </a>
 </p>
