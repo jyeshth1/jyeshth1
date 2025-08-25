@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-- 🎓 5th Semester B.Tech Student at Rajasthan Technical University  
+- 🎓 5th Semester B.Tech Student at JECRC Foundation 
 - 👨‍💻 Passionate about Software Development and Problem Solving  
 - 💡 Exploring Full-Stack Development and Advanced Data Structures & Algorithms  
 - 🔧 Currently working with *C++, JavaScript, React.js, Git, SQL, and Python*  
