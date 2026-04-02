@@ -1,17 +1,17 @@
 <h1 align="center">Hey there, I'm Jyeshth Joshi! 👋</h1>
 <p align="center">
-  🎓 B.Tech IT Student | 💻 Aspiring Software & Full-Stack Developer
+  🎓 B.Tech IT (7th Semester) | 🤖 ML & Data Science Enthusiast | 💻 Problem Solver
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 5th Semester B.Tech Student at JECRC Foundation 
-- 👨‍💻 Passionate about Software Development and Problem Solving  
-- 💡 Exploring Full-Stack Development and Advanced Data Structures & Algorithms  
-- 🔧 Currently working with *C++, JavaScript, React.js, Git, SQL, and Python*  
-- 🎯 Keen on building real-world projects and contributing to open-source  
+- 🎓 7th Semester B.Tech Student at JECRC Foundation (CGPA: 8.4)  
+- 🤖 Focused on Machine Learning and Data Science  
+- 👨‍💻 Strong in Data Structures, DBMS, and problem solving  
+- 🏆 Top 10 Finalist – Aryaverse Hackathon  
+- 🥇 Winner – Blind Code 2024  
 - 📬 Reach me at: **jyeshthjoshi018@gmail.com**
 
 ---
@@ -19,31 +19,52 @@
 ## 🧠 Tech Stack & Tools
 
 ### 👨‍💻 Programming Languages
-- C++, Python, JavaScript, SQL
+- C/C++, Python, SQL
+
+### 📊 ML & Data Science
+- NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn,tensorflow
 
 ### 🌐 Web Development
-- HTML, CSS, React.js, Git & GitHub
-
-### 📊 Data & Algorithms
-- DSA (with C++), MySQL, Problem Solving
+- HTML, CSS, JavaScript
 
 ### ⚙ Tools & Platforms
-- VS Code, GitHub, Jupyter Notebook
+- VS Code, Jupyter Notebook, PyCharm  
+- Git & GitHub  
+- Windows, Linux  
 
-### 📈 Data Libraries (Python)
-- Pandas, NumPy, Matplotlib (Basics)
-
-### 🤖 Interests
-- AI/ML Enthusiast | Software Engineering | System Design (Learning Phase)
+### 🧩 Core Concepts
+- Data Structures & Algorithms  
+- DBMS  
+- Machine Learning Basics  
 
 ---
 
 ## 📂 Featured Projects
 
-🔹 **[Analog Clock](https://github.com/jyeshth1/ANALOG-CLOCK)** — Real-time analog clock using HTML, CSS, and JavaScript  
-🔹 **[Calculator](https://github.com/jyeshth1/CALCULATOR)** — Functional calculator with input validation and arithmetic operations  
-🔹 **[Tic Tac Toe](https://github.com/jyeshth1/TicTacToe)** — 2-player browser-based game with win/draw detection and clean UI  
-🔹 **[More Projects](https://github.com/jyeshth1?tab=repositories)**
+🔹 **Heart Disease Prediction Tool**  
+- Built with Python, Pandas, Scikit-Learn & Streamlit  
+- Achieved 87% accuracy & 0.89 ROC-AUC  
+- Processed 1000+ records and optimized ML models  
+
+🔹 **Insurance Prediction Tool**  
+- Developed regression models using 1300+ records  
+- Reduced MAE by 15% with fast predictions  
+
+🔹 **Guesser Game (C++)**  
+- Console-based project implementing OOP concepts  
+- 100% error-free execution  
+
+🔹 **Web Projects**  
+- Analog Clock, Calculator, Tic Tac Toe  
+- https://github.com/jyeshth1  
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Winner – Blind Code 2024  
+- 🏆 Top 10 Finalist – Aryaverse Hackathon  
+- 💯 Solved 100+ problems on LeetCode  
 
 ---
 
