@@ -41,12 +41,12 @@
 
 ## 📂 Featured Projects
 
-🔹 **Heart Disease Prediction Tool**  
+🔹 **[Heart Disease Prediction Tool](https://github.com/jyeshth1/Heart-Disease-Prediction)**  
 - Built with Python, Pandas, Scikit-Learn & Streamlit  
 - Achieved 87% accuracy & 0.89 ROC-AUC  
 - Processed 1000+ records and optimized ML models  
 
-🔹 **Insurance Prediction Tool**  
+🔹 **[Insurance Prediction Tool](https://github.com/jyeshth1/Insurance-Prediction)**  
 - Developed regression models using 1300+ records  
 - Reduced MAE by 15% with fast predictions  
 
