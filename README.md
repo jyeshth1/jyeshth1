@@ -30,12 +30,12 @@
 ### ⚙ Tools & Platforms
 - VS Code, Jupyter Notebook, PyCharm  
 - Git & GitHub  
-- Windows, Linux  
+- Windows
 
 ### 🧩 Core Concepts
 - Data Structures & Algorithms  
 - DBMS  
-- Machine Learning Basics  
+- Machine Learning and Data Visualization
 
 ---
 
