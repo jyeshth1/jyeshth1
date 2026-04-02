@@ -50,7 +50,7 @@
 - Developed regression models using 1300+ records  
 - Reduced MAE by 15% with fast predictions  
 
-🔹 **Guesser Game (C++)**  
+🔹 **[Guesser Game (C++)](https://github.com/jyeshth1/Guesser-Game)**  
 - Console-based project implementing OOP concepts  
 - 100% error-free execution  
 
