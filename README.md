@@ -72,13 +72,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jyeshth1&show_icons=true&theme=radical" width="400px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jyeshth1&theme=radical" width="400px" />
+  <img src="https://streak-stats.demolab.com?user=jyeshth1&theme=radical" width="400px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyeshth1&layout=compact&theme=radical" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyeshth1&layout=compact&theme=radical&cache_seconds=1800" width="400px" />
 </p>
-
 ---
 
 ## 📫 Connect With Me
